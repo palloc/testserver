@@ -1,0 +1,2 @@
+V	190819031218Z		922EC676D02AFBFF	unknown	/C=JP/ST=Osaka/O=Beaglejump Co., Ltd./OU=Graphic Team/CN=Beaglejump Internet Authority G2/emailAddress=hostmaster@beaglejump.co.pkpk
+V	170820025725Z		922EC676D02AFC00	unknown	/C=JP/ST=Osaka/L=Osaka/O=Beaglejump Co., Ltd./OU=Graphic Team/CN=beaglejump.co.pkpk/emailAddress=hostmaster@beaglejump.co.pkpk
